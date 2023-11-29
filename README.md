@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @prathmesh0524
+- 👋 Hi, I’m Prathmesh Pramod kadam
 - 👀 I’m interested in Exploring
-- 🌱 I’m currently learning ...Python,Html
+- 🌱 I’m currently learning ...Python,Javascript ,Html&CSS.
 - 💞️ I’m looking to collaborate on ...coding related asspects
 - 📫 How to reach me ...
 
